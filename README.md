@@ -1,7 +1,7 @@
 # Welcome to my professional portfolio
 By:  Jeffrey Lutz  
   Resume:  [Word](docs/1-jeffrey_lutz_Resume.doc) - [PDF](docs/1-jeffrey_lutz_Resume.pdf)  
-  email: [jeff@agileanswers.com](mailto:jeff.lutz@agileanswers.com)  
+  email: [jeff.lutz@agileanswers.com](mailto:jeff.lutz@agileanswers.com)  
   phone: [+1.614.783.9451](tel:1-614-783-9451)
 
 #### Training Courses
