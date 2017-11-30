@@ -5,5 +5,5 @@ By:  Jeffrey Lutz
 
 #### Training Courses
   - [Cloudera Developer Course](https://university.cloudera.com/instructor-led-training/developer)
-  - [Cloudera Developer Certification](https://github.com/jeffreylutz/professional_portfolio/docs/2-jeffrey_lutz_hadoop_certification.pdf)
+  - [Cloudera Developer Certification](docs/2-jeffrey_lutz_hadoop_certification.pdf)
   -
