@@ -6,8 +6,8 @@ Computer Vision and Deep Learning
 In this term, you'll become an expert in applying Computer Vision and Deep Learning on automotive problems. You will teach the car to detect lane lines, predict steering angle, and more all based on just camera data!
   - Project: [Finding Lane Lines on the Road](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines) -- [Solution inotebook](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines/blob/master/P1.ipynb) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines/blob/master/CarND-LaneLines-P1_writeup.md)
   - Project: [Traffic Sign Classifier](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier) -- [Solution](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier/blob/master/project_writeup.pdf)
-  - Project: [Behavioral Cloning]() -- [Solution]() -- [My writeup]()
-  - Project: Advanced Lane Finding
+  - Project: [Behavioral Cloning](https://github.com/jeffreylutz/Udacity-CarND-T1-P3-Behavioral-Cloning) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P3-Behavioral-Cloning/blob/master/writeup.md)
+  - Project: [Advanced Lane Finding](https://github.com/jeffreylutz/Udacity-CarND-T1-P4-Advanced-Lane-Lines) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P4-Advanced-Lane-Lines/blob/master/project_writeup.pdf)
   - Project: Vehicle Detection and Tracking
   Estimated time: 90 days
 
