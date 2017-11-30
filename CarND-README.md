@@ -4,7 +4,7 @@ This section consists of all the lessons and projects you need to complete in or
 ## PART 1
 Computer Vision and Deep Learning
 In this term, you'll become an expert in applying Computer Vision and Deep Learning on automotive problems. You will teach the car to detect lane lines, predict steering angle, and more all based on just camera data!
-  - Project: [Finding Lane Lines on the Road](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines/blob/master/CarND-LaneLines-P1_writeup.md)
+  - Project: [Finding Lane Lines on the Road](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines) -- [Solution inotebook](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines/blob/master/P1.ipynb) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines/blob/master/CarND-LaneLines-P1_writeup.md)
   - Project: Traffic Sign Classifier
   - Project: Behavioral Cloning
   - Project: Advanced Lane Finding
