@@ -14,11 +14,11 @@ In this term, you'll become an expert in applying Computer Vision and Deep Learn
 ## PART 2
 Sensor Fusion, Localization, and Control
 In this term, you'll learn how to use an array of sensor data to perceive the environment and control the vehicle. You'll evaluate sensor data from camera, radar, lidar, and GPS, and use these in closed-loop controllers that actuate the vehicle.
-  - Project: Extended Kalman Filters
-  - Project: Unscented Kalman Filters
-  - Project: Kidnapped Vehicle
-  - Project: PID Controller
-  - Project: Model Predictive Control
+  - Project: [Extended Kalman Filters](https://github.com/jeffreylutz/Udacity-CarND-T2-P1-Extended-Kalman-Filter)
+  - Project: [Unscented Kalman Filters](https://github.com/jeffreylutz/Udacity-CarND-T2-P2-Unscented-Kalman-Filter)
+  - Project: [Kidnapped Vehicle](https://github.com/jeffreylutz/Udacity-CarND-T2-P3-Kidnapped-Vehicle)
+  - Project: [PID Controller](https://github.com/jeffreylutz/Udacity-CarND-T2-P4-PID-Control)
+  - Project: [Model Predictive Control](https://github.com/jeffreylutz/Udacity-CarND-T2-P5-MPC) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T2-P5-MPC/blob/master/Writeup.md)  
   Estimated time: 89 days
 
 ## PART 3
