@@ -24,8 +24,8 @@ In this term, you'll learn how to use an array of sensor data to perceive the en
 ## PART 3
 Path Planning, Concentrations, and Systems
 In this term, you'll learn how to plan where the vehicle should go, how the vehicle systems work together to get it there, and you'll perform a deep-dive into a concentration of your choice.
-  - Project: Path Planning Project
-  - Project: Semantic Segmentation (Elective)
-  - Project: Functional Safety of a Lane Assistance System (Elective)
-  - Project: Programming a Real Self-Driving Car (Group Project)
+  - Project: [Path Planning Project](https://github.com/jeffreylutz/Udacity-CarND-T3-P1-Path-Planning) -- No Writeup
+  - Project: [Semantic Segmentation (Elective)](https://github.com/jeffreylutz/Udacity-CarND-T3-P2-Semantic-Segmentation) -- No Writeup
+  - Project: Functional Safety of a Lane Assistance System (Elective) -- Not taken
+  - Project: [Programming a Real Self-Driving Car (Group Project)](https://github.com/jeffreylutz/Udacity-CarND-T3-P3-Capstone) -- No Writeup
   Estimated time: 89 days
