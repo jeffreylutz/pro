@@ -8,7 +8,7 @@ In this term, you'll become an expert in applying Computer Vision and Deep Learn
   - Project: [Traffic Sign Classifier](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier) -- [Solution](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier/blob/master/project_writeup.pdf)
   - Project: [Behavioral Cloning](https://github.com/jeffreylutz/Udacity-CarND-T1-P3-Behavioral-Cloning) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P3-Behavioral-Cloning/blob/master/writeup.pdf)
   - Project: [Advanced Lane Finding](https://github.com/jeffreylutz/Udacity-CarND-T1-P4-Advanced-Lane-Lines) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P4-Advanced-Lane-Lines/blob/master/project_writeup.pdf)
-  - Project: Vehicle Detection and Tracking
+  - Project: [Vehicle Detection and Tracking](https://github.com/jeffreylutz/Udacity-CarND-T1-P4-Advanced-Lane-Lines) -- [Solution](https://github.com/jeffreylutz/Udacity-CarND-T1-P4-Advanced-Lane-Lines/blob/master/CarND-Advanced-Lane-Lines.ipynb) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P4-Advanced-Lane-Lines/blob/master/project_writeup.pdf)  
   Estimated time: 90 days
 
 ## PART 2
