@@ -6,10 +6,10 @@ By:  Jeffrey Lutz
 
 #### Training Courses
   - Self-Driving Car Degree Program - [Curriculum](CarND-README.md) - [Degree]()
-  - Stanford University Machine Learning Course - [Statement of Accomplishment](docs/Coursera_Machine_Learning_2017.pdf)
-  - Coursera Computing for Data Analysis Course - [Statement of Accomplishment](docs/Coursera_Computing_for_Data_Analysis_2017.pdf)
-  - Coursera Introduction to Data Science - [Statement of Accomplishment](docs/Coursera_Intro_Data_Science_2017.pdf)
-  - Cloudera Developer Course - [Curriculum](https://university.cloudera.com/instructor-led-training/developer) - [Certificate](docs/2-jeffrey_lutz_hadoop_certification.pdf)
-  - Object Oriented Design Course by Robert Martin - [Curriculum](OO_DESIGN_README.md)
+  - Stanford University Machine Learning Course - [Projects](https://github.com/jeffreylutz/education/tree/master/machine_learning_coursera) - [Statement of Accomplishment](docs/Coursera_Machine_Learning_2017.pdf)
+  - Coursera Computing for Data Analysis Course - [Projects](https://github.com/jeffreylutz/education/tree/master/data_analytics_programming_coursera) - [Statement of Accomplishment](docs/Coursera_Computing_for_Data_Analysis_2017.pdf)
+  - Coursera Introduction to Data Science - [Projects](https://github.com/jeffreylutz/education/tree/master/data_science_coursera) - [Statement of Accomplishment](docs/Coursera_Intro_Data_Science_2017.pdf)
+  - Cloudera Developer Course - No Projects Available - [Curriculum](https://university.cloudera.com/instructor-led-training/developer) - [Certificate](docs/2-jeffrey_lutz_hadoop_certification.pdf)
+  - Object Oriented Design Course by Robert Martin - No Porjects Available - [Curriculum](OO_DESIGN_README.md)
 
 #### Projects
