@@ -1,7 +1,7 @@
 # Welcome to my professional portfolio
 By:  Jeffrey Lutz  
   email: [jeff@agileanswers.com](mailto:jeff.lutz@agileanswers.com)  
-  phone: [+1.614.783.9451]()
+  phone: [+1.614.783.9451](tel:1-614-783-9451)
 
 #### Training Courses
   - [Cloudera Developer Course](https://university.cloudera.com/instructor-led-training/developer)
