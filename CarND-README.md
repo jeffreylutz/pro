@@ -5,7 +5,7 @@ This section consists of all the lessons and projects you need to complete in or
 Computer Vision and Deep Learning
 In this term, you'll become an expert in applying Computer Vision and Deep Learning on automotive problems. You will teach the car to detect lane lines, predict steering angle, and more all based on just camera data!
   - Project: [Finding Lane Lines on the Road](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines) -- [Solution inotebook](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines/blob/master/P1.ipynb) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P1-Lane-Lines/blob/master/CarND-LaneLines-P1_writeup.md)
-  - Project: [Traffic Sign Classifier](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier) -- [Solution](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier/blob/master/traffic_sign_classifier_writeup.md)
+  - Project: [Traffic Sign Classifier](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier) -- [Solution](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb) -- [My writeup](https://github.com/jeffreylutz/Udacity-CarND-T1-P2-Traffic-Sign-Classifier/blob/master/project_writeup.pdf)
   - Project: [Behavioral Cloning]() -- [Solution]() -- [My writeup]()
   - Project: Advanced Lane Finding
   - Project: Vehicle Detection and Tracking
