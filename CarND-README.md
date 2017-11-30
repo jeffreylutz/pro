@@ -27,5 +27,5 @@ In this term, you'll learn how to plan where the vehicle should go, how the vehi
   - Project: [Path Planning Project](https://github.com/jeffreylutz/Udacity-CarND-T3-P1-Path-Planning) -- No Writeup
   - Project: [Semantic Segmentation (Elective)](https://github.com/jeffreylutz/Udacity-CarND-T3-P2-Semantic-Segmentation) -- No Writeup
   - Project: Functional Safety of a Lane Assistance System (Elective) -- Not taken
-  - Project: [Programming a Real Self-Driving Car (Group Project)](https://github.com/jeffreylutz/Udacity-CarND-T3-P3-Capstone) -- No Writeup
+  - Project: [Programming a Real Self-Driving Car (Group Project)](https://github.com/jeffreylutz/Udacity-CarND-T3-P3-Capstone) -- No Writeup  
   Estimated time: 89 days
