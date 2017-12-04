@@ -5,7 +5,7 @@ By:  Jeffrey Lutz
   phone: [+1.614.783.9451](tel:1-614-783-9451)
 
 #### Training Courses
-  - Self-Driving Car Degree Program - [Curriculum](CarND-README.md) - [Degree]()
+  - Self-Driving Car Degree Program - [Curriculum](CarND-README.md) - [Degree](docs/self-driving-degree.pdf)
   - Stanford University Machine Learning Course - [Projects](https://github.com/jeffreylutz/education/tree/master/machine_learning_coursera) - [Statement of Accomplishment](docs/Coursera_Machine_Learning_2017.pdf)
   - Coursera Computing for Data Analysis Course - [Projects](https://github.com/jeffreylutz/education/tree/master/data_analytics_programming_coursera) - [Statement of Accomplishment](docs/Coursera_Computing_for_Data_Analysis_2017.pdf)
   - Coursera Introduction to Data Science - [Projects](https://github.com/jeffreylutz/education/tree/master/data_science_coursera) - [Statement of Accomplishment](docs/Coursera_Intro_Data_Science_2017.pdf)
