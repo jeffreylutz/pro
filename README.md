@@ -2,7 +2,8 @@
 By:  Jeffrey Lutz  
   Resume:  [PDF](docs/1-jeffrey_lutz_Resume.pdf)
   email: [jeff.lutz@agileanswers.com](mailto:jeff.lutz@agileanswers.com)  
-  phone: [+1.614.783.9451](tel:1-614-783-9451)
+  phone: [+1.614.783.9451](tel:1-614-783-9451)  
+  calendar: https://calendly.com/jeffreylutz/30min
 
 #### Training Courses
   - Self-Driving Car Degree Program - [Curriculum](CarND-README.md) - [Degree](docs/self-driving-degree.pdf)
