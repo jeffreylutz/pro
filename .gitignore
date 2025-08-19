@@ -1,1 +1,6 @@
 .DS_Store
+.idea
+logs
+CLAUDE.md
+resume_query.md
+experience.txt
