@@ -12,4 +12,3 @@ By:  Jeffrey Lutz
   - Cloudera Developer Course - No Projects Available - [Curriculum](https://university.cloudera.com/instructor-led-training/developer) - [Certificate](docs/2-jeffrey_lutz_hadoop_certification.pdf)
   - Object Oriented Design Course by Robert Martin - No Projects Available - [Curriculum](OO_DESIGN_README.md)
   - IOS Training Big Nerd Ranch - [Projects](https://github.com/jeffreylutz/ios_training/bignerdranch-iOS3eSolutions-3c50734)
-
