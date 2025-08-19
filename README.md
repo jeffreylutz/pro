@@ -1,6 +1,6 @@
 # Welcome to my professional portfolio
-By:  Jeffrey Lutz  
-  Resume:  <a href="docs/resume.pdf" target="_blank">PDF</a>  <a href="docs/resume.html" target="_blank">HTML</a>  
+Jeffrey Lutz  
+  Resume:  <a href="https://jeffreylutz.github.io/pro/docs/resume.pdf" target="_blank">PDF</a>  <a href="https://jeffreylutz.github.io/pro/docs/resume.html" target="_blank">HTML</a>  
   email: [jefflutz1@gmail.com](mailto:jefflutz1@gmail.com)  
   phone: [+1.614.783.9451](tel:1-614-783-9451)  
 
