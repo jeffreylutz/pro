@@ -1,9 +1,8 @@
 # Welcome to my professional portfolio
 By:  Jeffrey Lutz  
-  Resume:  [PDF](docs/1-jeffrey_lutz_Resume.pdf)
-  email: [jeff.lutz@agileanswers.com](mailto:jeff.lutz@agileanswers.com)  
+  Resume:  [PDF](docs/resume.pdf)   [HTML](docs/resume.html)
+  email: [jefflutz1@gmail.com](mailto:jefflutz1@gmail.com)  
   phone: [+1.614.783.9451](tel:1-614-783-9451)  
-  calendar: https://calendly.com/jeffreylutz/30min
 
 #### Training Courses
   - Self-Driving Car Degree Program - [Curriculum](CarND-README.md) - [Degree](docs/self-driving-degree.pdf)
@@ -14,5 +13,3 @@ By:  Jeffrey Lutz
   - Object Oriented Design Course by Robert Martin - No Projects Available - [Curriculum](OO_DESIGN_README.md)
   - IOS Training Big Nerd Ranch - [Projects](https://github.com/jeffreylutz/ios_training/bignerdranch-iOS3eSolutions-3c50734)
 
-## Code Samples
-  - [YOLO-V7 in C++](https://github.com/jeffreylutz/cpp-yolov7)
